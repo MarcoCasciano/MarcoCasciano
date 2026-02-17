@@ -2,13 +2,13 @@
 
 # Hi, Marco here 👋
 
-### Marco Casciano - Python Backend Developer | Entrepreneurial Mindset | Problem Solver
+### Marco Casciano · Python Backend Developer | FastAPI & REST APIs
 
 I’m a Python Backend Developer based in Rome 🇮🇹 with a focus on building scalable, clean, and efficient systems. 
 
 - 🐍 **Certified Python Associate (PCAP-31-03)**
 - ⚡ **Tech Focus:** FastAPI, RESTful Architectures & PostgreSQL
-- 💼 **The "Extra Mile":** I bring nearly a decade of experience in the Italy-Japan import business. I don’t just write code; I understand logistics, data flows, and how to keep operations running smoothly under pressure.
+- 💼 I bring nearly a decade of experience in the Italy-Japan import business. I don’t just write code; I understand logistics, data flows, and how to keep operations running smoothly under pressure.
 
 ---
 
