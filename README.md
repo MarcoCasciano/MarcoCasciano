@@ -22,8 +22,8 @@ I’m a Python Backend Developer based in Rome 🇮🇹 with a focus on building
 ---
 
 ## ⚡ Beyond the Code
-* 🍶 **Sake Educator:** I've trained 150+ professionals (Precision & Discipline).
-* 🥁 **Former Pro Drummer:** International touring experience (Teamwork & Timing).
+* 🍶 **Sake Educator:** I've trained 150+ professionals.
+* 🥁 **Former Pro Drummer:** International touring experience.
 * 🕹️ **Retro-Gamer:** Collector of point-and-click adventures.
 
 ---
